@@ -20,7 +20,7 @@ Welcome to your hands-on journey with Git and GitHub! This workshop will walk yo
 2. **Clone your fork to your local machine**
 
    ```bash
-   git clone https://github.com/maneedasshrestha/Git-Workshop.git
+   git clone https://github.com/your-username/git-workshop
    cd git-workshop
    ```
 
