@@ -1,0 +1,22 @@
+name: Thank Contributor
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  thank-contributor:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Say thanks
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.payload.pull_request.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: "🎉 Thanks for contributing to the Git Workshop! Your PR has been received. 🚀"
+          })
