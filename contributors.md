@@ -4,3 +4,4 @@
 - Niraj - LOVESSS SLEEPING 😪
 - Pranil - likes to sing 🎵
 - Manee - Loves coding while sipping coffee ☕
+- sujal - eat sleep code and repeat
