@@ -4,3 +4,4 @@
 - Niraj - LOVESSS SLEEPING 😪
 - Pranil - likes to sing 🎵
 - Manee - Loves coding while sipping coffee ☕
+- sayudh - likes to watch cricket 
