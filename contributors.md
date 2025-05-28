@@ -4,3 +4,5 @@
 - Niraj - LOVESSS SLEEPING 😪
 - Pranil - likes to sing 🎵
 - Manee - Loves coding while sipping coffee ☕
+- Swarnim - Loves graphics and editing
+- Supriya - Always happy
