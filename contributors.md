@@ -4,4 +4,4 @@
 - Niraj - LOVESSS SLEEPING 😪
 - Pranil - likes to sing 🎵
 - Manee - Loves coding while sipping coffee ☕
-- Octopuses have three hearts
+- Pradipta - Octopuses have three hearts
